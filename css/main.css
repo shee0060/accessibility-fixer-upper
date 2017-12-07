@@ -63,6 +63,10 @@ td {
   background-color: #eeebe9;
 }
 
+.read-more:hover {
+  color: #000;
+}
+
 .contact {
   background-color: #dfdcda;
 }
