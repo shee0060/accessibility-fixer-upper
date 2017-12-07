@@ -63,8 +63,17 @@ td {
   background-color: #eeebe9;
 }
 
+.page-link {
+  text-decoration: underline;
+}
+
+.read-more {
+  color: #113c00;
+  text-decoration: underline;
+}
+
 .read-more:hover {
-  color: #000;
+  color: #568c36;
 }
 
 .contact {
